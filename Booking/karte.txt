@@ -1,0 +1,24 @@
+ID karte:313652/// Ime=Ivan/// Prezime=Jovovic/// Kontakt=ivanjovovic@gmail.com/// Utakmica=Sutjeska-Mladost(27/02/2020)/// Tribina=Zapad/// Sektor=B/// Sjediste=11
+ID karte:854742/// Ime=Marko/// Prezime=Markovic/// Kontakt=069598569/// Utakmica=Sutjeska-Ibar(03/03/2020)/// Tribina=Zapad/// Sektor=C/// Sjediste=8
+ID karte:391787/// Ime=Dragan/// Prezime=Nikolic/// Kontakt=097592548/// Utakmica=Sutjeska-Rudar(19/02/2020)/// Tribina=Istok/// Sektor=B/// Sjediste=7
+ID karte:869543/// Ime=Marko/// Prezime=Markovic/// Kontakt=adsds/// Utakmica=Sutjeska-Buducnost [02/02/2020]/// Tribina=Istok/// Sektor=A/// Sjediste=3
+ID karte:339203/// Ime=Ivana/// Prezime=Ognjanovic/// Kontakt=067592548/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Zapad/// Sektor=B/// Sjediste=27
+ID karte:14642/// Ime=jsajsadj/// Prezime=sdaasd/// Kontakt=dsaas/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Istok/// Sektor=A/// Sjediste=1
+ID karte:84537/// Ime=Ivan/// Prezime=Jovovic/// Kontakt=ivanjovovic@mail.com/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Zapad/// Sektor=B/// Sjediste=6
+ID karte:282282/// Ime=Dragan/// Prezime=Popovic/// Kontakt=069555444/// Utakmica=Sutjeska-Mornar[12/03/2020]/// Tribina=Zapad/// Sektor=B/// Sjediste=40
+ID karte:973654/// Ime=Marko/// Prezime=Markovic/// Kontakt=067592548/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Istok/// Sektor=B/// Sjediste=15
+ID karte:182407/// Ime=Mirka/// Prezime=Mirkovic/// Kontakt=mirka@gmail.com/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Istok/// Sektor=A/// Sjediste=10
+ID karte:105821/// Ime=Janko/// Prezime=Jankovic/// Kontakt=0695555555/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Istok/// Sektor=C/// Sjediste=11
+ID karte:749902/// Ime=Pasko/// Prezime=Djonovic/// Kontakt=0695555555/// Utakmica=Sutjeska-Ibar[03/03/2020]/// Tribina=Istok/// Sektor=A/// Sjediste=9
+ID karte:925242/// Ime=Ivan/// Prezime=Jovovic/// Kontakt=ivan@gmail.com/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Istok/// Sektor=A/// Sjediste=1
+ID karte:713669/// Ime=Danijel/// Prezime=Dushaj/// Kontakt=06747383923/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Zapad/// Sektor=B/// Sjediste=11
+ID karte:368928/// Ime=Filip/// Prezime=Kruska/// Kontakt=069555569/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Zapad/// Sektor=B/// Sjediste=7
+ID karte:556080/// Ime=Djordjije/// Prezime=Andjic/// Kontakt=06755585/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Istok/// Sektor=A/// Sjediste=5
+ID karte:865023/// Ime=Desa/// Prezime=Jovovic/// Kontakt=067417592/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Zapad/// Sektor=B/// Sjediste=6
+ID karte:284790/// Ime=Dejan/// Prezime=Babic/// Kontakt=0695555555/// Utakmica=Sutjeska-Mornar[12/03/2020]/// Tribina=Istok/// Sektor=B/// Sjediste=6
+ID karte:359043/// Ime=Jelena/// Prezime=Tijanic/// Kontakt=jelena@gmail.com/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Zapad/// Sektor=B/// Sjediste=9
+ID karte:271861/// Ime=Jasmin/// Prezime=Tokovic/// Kontakt=jasmin@gmail.com/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Zapad/// Sektor=B/// Sjediste=32
+ID karte:581571/// Ime=Ivana/// Prezime=Ognjanovic/// Kontakt=ivana@gmail.com/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Zapad/// Sektor=C/// Sjediste=24
+ID karte:442790/// Ime=Nikola/// Prezime=Nikolic/// Kontakt=nikola@gmail.com/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Istok/// Sektor=B/// Sjediste=4
+ID karte:265649/// Ime=Anes/// Prezime=Bajrovic/// Kontakt=anes@gmail.com/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Zapad/// Sektor=B/// Sjediste=5
+ID karte:218567/// Ime=Ivan/// Prezime=Jovovic/// Kontakt=067592548/// Utakmica=Sutjeska-Mladost[27/02/2020]/// Tribina=Istok/// Sektor=A/// Sjediste=7
